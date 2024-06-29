@@ -12,6 +12,7 @@
         alt="DIO - Code The Future">
 </a>
 
+
 </p>
 
 <p align="center">
@@ -21,6 +22,14 @@
 <div align="center">
     <audio src="output/podcast.mov" controls title="Podcast editado"></audio>
 </div>
+
+<p align="center">
+<a href="https://github.com/alessalucas/prompts-for-podcast-generate-by-ia/blob/main/output/podcast.wav">
+    <img 
+        src="./assets/play.png" 
+        width="50"
+        alt="Tech a Bordo: Desembarcando na Carreira Internacional">
+</a>
 
 # Projeto Podcast Gerado por I.A.s
 
