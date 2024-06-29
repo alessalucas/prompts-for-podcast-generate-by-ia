@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast.wav" controls title="Podcast editado"></audio>
+    <audio src="output/podcast.mov" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
