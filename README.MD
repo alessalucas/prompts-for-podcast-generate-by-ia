@@ -65,7 +65,7 @@ Utilize os prompts linkados abaixo para criar um podcast de maneira automatizada
 
 - 🤖 1. Use os prompts de roteiro no `chagpt` - [Clique para acessar o Prompt](https://github.com/alessalucas/prompts-for-podcast-generate-by-ia/blob/main/src/prompts/chatgpt.md)
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `Playground` [Clique para acessar o Prompt](https://github.com/alessalucas/prompts-for-podcast-generate-by-ia/blob/main/src/prompts/playground.md)
+- 🤖 3. Use os prompts de artes no `Playground` - [Clique para acessar o Prompt](https://github.com/alessalucas/prompts-for-podcast-generate-by-ia/blob/main/src/prompts/playground.md)
 
 ## 👨‍💻 Expert
 #### Alessandra Araujo
